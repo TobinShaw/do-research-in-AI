@@ -17,7 +17,7 @@
   - [ ] [北京大学施柏鑫：计算机视觉论文从投稿到接受](https://www.bilibili.com/video/BV1Ha4y1x7sk)
   - [ ] [如何以初学者角度写好一篇国际（顶级）学术论文](https://www.bilibili.com/video/BV1n7411o7dU?p=3)
 
-- [] **CCL 2020 学生研讨会**
+- [ ] **CCL 2020 学生研讨会**
   - [x] [赵鑫老师：研究生的早期科研之路](https://www.bilibili.com/video/BV1cD4y1R7WL)
   - [ ] [冯洋老师：冲击最佳论文需要知道的事情 4:29:00开始](https://www.bilibili.com/video/BV1zA411j7h5)
   - [ ] [复旦大学桂韬：当 NLP 邂逅 Social Media – 我的小目标与大坚持 5:30:20开始](https://www.bilibili.com/video/BV1zA411j7h5)
